@@ -1,0 +1,14 @@
+https://us02web.zoom.us/j/84097044345?pwd=NEJsYWF1UUs1c2NFZXdHMGJ2T0kxZz09
+
+aaacbba
+a aacbba -> +1
+a aacbba -> 0
+a acbba -> +1
+a acbba -> 0
+a cbba -> +1
+a cbba -> 0
+c bba -> 0
+c bba -> -1
+b ba -> 0
+b a -> 0
+a -> 0
