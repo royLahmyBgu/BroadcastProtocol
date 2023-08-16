@@ -1,0 +1,7 @@
+cff-version: 1.2.0
+message: ""
+authors:
+  - family-names: Lahmy
+    given-names: Roy
+title: "My BP simulator"
+date-released: 2023-08-16
